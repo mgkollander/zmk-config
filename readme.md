@@ -86,7 +86,7 @@ than keeping track of which modes are currently active.)
 ##### Smart-Mouse
 
 Similarly to Numword, I have a smart-mouse layer (activated by comboing
-<kbd>W</kbd> + <kbd>P</kbd>), which adds scroll and mouse-movements, 
+<kbd>F</kbd> + <kbd>P</kbd>), which adds scroll and mouse-movements, 
 and replaces the right thumbs with mouse buttons. Pressing
 any other key automatically deactivates the layer.
 
