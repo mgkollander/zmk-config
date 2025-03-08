@@ -43,7 +43,7 @@ The description below is a very slight variation of urob's README, edited for my
 - **False positives (cross-hand):** Increase `require-prior-idle-ms` (or set
   flavor to `tap-preferred`, which requires holding HRMs past tapping term to
   activate)
-
+  
 ## Using combos instead of a symbol layer
 
 - The top vertical-combo row matches the symbols on a standard numbers row
@@ -86,8 +86,8 @@ than keeping track of which modes are currently active.)
 ##### Smart-Mouse
 
 Similarly to Numword, I have a smart-mouse layer (activated by comboing
-<kbd>W</kbd> + <kbd>P</kbd>), which replaces the navigation cluster with scroll
-and mouse-movements, and replaces the right thumbs with mouse buttons. Pressing
+<kbd>W</kbd> + <kbd>P</kbd>), which adds scroll and mouse-movements, 
+and replaces the right thumbs with mouse buttons. Pressing
 any other key automatically deactivates the layer.
 
 ##### Capsword
