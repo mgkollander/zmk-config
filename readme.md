@@ -78,11 +78,10 @@ The main downside is that if a sequence of numbers is _immediately_ followed by
 any of the letters on which my numpad is located (WFPRSTXCD), then the automatic
 deactivation won't work. But this is rare -- most number sequences are
 terminated by `space`, `return` or some form of punctuation/delimination. To
-deal with the rare cases where they aren't, there is a `CANCEL` key on the
-navigation-layer that deactivates Numword, Capsword and Smart-mouse. (It also
-toggles off when pressing `Numword` again, but I find it cognitively easier to
-have a dedicated "off-switch" than keeping track of which modes are currently
-active.)
+deal with the rare cases where they aren't, there is a `CANCEL` key that 
+deactivates Numword, Capsword and Smart-mouse. (It also toggles off when pressing 
+`Numword` again, but I find it cognitively easier to have a dedicated "off-switch" 
+than keeping track of which modes are currently active.)
 
 ##### Smart-Mouse
 
