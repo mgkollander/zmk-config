@@ -92,8 +92,8 @@ any other key automatically deactivates the layer.
 
 ##### Capsword
 
-My left thumb triggers three variations of shift: Tapping yields sticky-shift
-(used to capitalize alphas), holding activates a regular shift, and
+My left thumb triggers three variations of shift: Tapping after any alpha key yields key-repeat (to reduce SFUs). 
+Tapping after any other keycode yields sticky-shift (used to capitalize alphas). Holding activates a regular shift, and
 double-tapping (or equivalently shift + tap) activates ZMK's Caps-word behavior.
 
 One minor technical detail: While it would be possible to implement the
