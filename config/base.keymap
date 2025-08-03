@@ -164,6 +164,10 @@ SIMPLE_MORPH(qexcl, SFT, &kp QMARK, &kp EXCL)
 SIMPLE_MORPH(lpar_lb, SFT, &kp LPAR, &kp LBRC)
 SIMPLE_MORPH(rpar_rb, SFT, &kp RPAR, &kp RBRC)
 
+// Tap: left/right bracket | Shft + tap: less/greater than.
+SIMPLE_MORPH(lbkt_lt, SFT, &kp LBKT, &kp LT)
+SIMPLE_MORPH(rbkt_gt, SFT, &kp RBKT, &kp GT)
+
 // Tap: return | Hold: nav layer.
 ZMK_HOLD_TAP(lt_ret, bindings = <&mo>, <&dot_spc>; flavor = "balanced";
              tapping-term-ms = <200>; quick-tap-ms = <QUICK_TAP_MS>;)
