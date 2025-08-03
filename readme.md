@@ -4,7 +4,7 @@ This [ZMK firmware](https://github.com/zmkfirmware/zmk/) configuration was forke
 
 ### ⚠️ <ins>Note</ins>
 
-The description below is a very slight variation of urob's README, edited for my own personal use. Any use of first-person language is from urob's perspective and not my original work.
+The description below is a slight variation of urob's README, edited for my own personal use. Any use of first-person language is from urob's perspective and not my original work.
 
 <br />
 
